@@ -1,0 +1,13 @@
+,pca_n_components,params,accuracy
+0,5,"{'max_depth': 3, 'n_estimators': 100}",0.6418079096045198
+1,9,"{'max_depth': 3, 'n_estimators': 50}",0.6418079096045198
+2,12,"{'max_depth': 5, 'n_estimators': 50}",0.6406779661016949
+3,11,"{'max_depth': 3, 'n_estimators': 100}",0.6389830508474577
+4,8,"{'max_depth': 3, 'n_estimators': 5}",0.6384180790960452
+5,10,"{'max_depth': 3, 'n_estimators': 100}",0.6372881355932203
+6,6,"{'max_depth': 5, 'n_estimators': 100}",0.6338983050847459
+7,7,"{'max_depth': 5, 'n_estimators': 50}",0.6338983050847458
+8,4,"{'max_depth': 3, 'n_estimators': 100}",0.6310734463276837
+9,2,"{'max_depth': 3, 'n_estimators': 10}",0.6265536723163841
+10,3,"{'max_depth': 3, 'n_estimators': 10}",0.6231638418079096
+11,1,"{'max_depth': 10, 'n_estimators': 5}",0.5067796610169493
