@@ -1,7 +1,6 @@
 # NBA_Win_Odds_Model
 
 # Predicting NBA Game Outcomes: A Machine Learning Approach
-Jun Ze He, Eduard Bueno, Brian Mualim, Anthony Ko, Theresa Unsulangi, Chloe Guo
 
 ## Project Overview
 This project explores the predictive modeling of NBA game outcomes using statistical and machine learning techniques. Utilizing data from the 2023-2024 NBA season, our goal was to determine the most effective model for predicting game results based on key performance metrics.
